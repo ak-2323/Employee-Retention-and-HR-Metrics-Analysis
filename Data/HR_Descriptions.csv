@@ -1,0 +1,37 @@
+﻿Column Name,Description
+EmpID,Unique identifier for each employee.
+Age,Employee's age in years.
+AgeGroup,"Age range category (e.g., '18-25')."
+Attrition,Indicates if the employee left the company (Yes or No).
+BusinessTravel,Frequency of business travel.
+DailyRate,Daily salary rate.
+Department,Department the employee works in.
+DistanceFromHome,Distance from home to workplace.
+Education,Education level (1 to 5).
+EducationField,"Field of education (e.g., 'Life Sciences')."
+EmployeeCount,Always 1; used for calculation purposes.
+EnvironmentSatisfaction,"Satisfaction with work environment (1 = Low, 4 = Very High)."
+Gender,Employee gender.
+HourlyRate,Hourly wage rate.
+JobInvolvement,"Level of job involvement (1 = Low, 4 = Very High)."
+JobLevel,"Job seniority level (1 = Entry, 5 = Executive)."
+JobRole,Job title or function.
+JobSatisfaction,"Satisfaction with the job (1 = Low, 4 = Very High)."
+MaritalStatus,Marital status of the employee.
+MonthlyIncome,Monthly salary.
+MonthlyRate,Monthly pay rate.
+NumCompaniesWorked,Number of previous companies the employee has worked at.
+Over18,Indicates if employee is over 18.
+OverTime,Whether employee works overtime (Yes or No).
+PercentSalaryHike,Percentage increase in salary from the previous year.
+PerformanceRating,Performance score (usually 1 to 4).
+RelationshipSatisfaction,"Satisfaction with coworkers (1 = Low, 4 = Very High)."
+StandardHours,Typically 80 hours (constant value).
+StockOptionLevel,Stock option availability level (0 to 3).
+TotalWorkingYears,Total professional experience in years.
+TrainingTimesLastYear,Number of training programs attended in the last year.
+WorkLifeBalance,"Rating of work-life balance (1 = Bad, 4 = Excellent)."
+YearsAtCompany,Number of years at the current company.
+YearsInCurrentRole,Number of years in the current role.
+YearsSinceLastPromotion,Years since last promotion.
+YearsWithCurrManager,Years working with the current manager.
