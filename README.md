@@ -1,4 +1,5 @@
 # Employee Retention and HR Metrics Analysis
+![HR_img](https://github.com/ak-2323/Employee-Retention-and-HR-Metrics-Analysis/blob/main/assets/main.gif)
 
 ### Problem Statement
 
@@ -7,6 +8,9 @@ Employee turnover is one of the most significant challenges organizations face t
 This project aims to analyze employee-level HR data to identify patterns in attrition, detect retention risk areas, and uncover growth-related disparities to support HR strategies focused on workforce engagement, retention, and development.
 
 ### About data
+
+**Data Source:**  [HR Analytics Dataset](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset?select=HR_Analytics.csv)
+
 The dataset contains information on 1,470 employees, including the following dimensions:
 
 - **Demographics:** Age, Gender, Marital Status, Education Field
@@ -27,14 +31,20 @@ To build a data-driven HR dashboard that:
 
 
 ### Dashboard Pages
-**1. Employee Overview**
+**1. Employee Overview:**
 Understand employee distribution by gender, age, department, job role, marital status, and education field.
 
-**2. Attrition & Retention Analysis**
+![Employee Overview](https://github.com/ak-2323/Employee-Retention-and-HR-Metrics-Analysis/blob/main/assets/Employee%20Overview.jpg)
+
+**2. Attrition & Retention Analysis:**
 Identify groups with high attrition and low engagement based on income, role, and tenure.
 
-**3. Performance & Growth Insights**
+![Attrition and Retention](https://github.com/ak-2323/Employee-Retention-and-HR-Metrics-Analysis/blob/main/assets/Attrition_and_Retention.jpg)
+
+**3. Performance & Growth Insights:**
 Assess if employees are growing fairly across departments and income groups.
+
+![Performance & Growth](https://github.com/ak-2323/Employee-Retention-and-HR-Metrics-Analysis/blob/main/assets/Performance_and_Growth.jpg)
 
 ### Key Insights
 - Employees in the lower income and early tenure brackets experience the highest attrition.
